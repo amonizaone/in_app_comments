@@ -1,6 +1,6 @@
 name: in_app_comments
 description: Flutter plugin for showing the In-App Comments Rating pop up on Huawei phones with Android. It makes it easy for users to rate your app.
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/ivangr1/in_app_comments 
 
 environment:
